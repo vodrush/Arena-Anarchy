@@ -12,14 +12,6 @@
 			]
 		},
 		{
-			"Name": "MetaHuman",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "HairStrands",
 			"Enabled": true
 		},
@@ -37,6 +29,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
 		}
 	]
 }
